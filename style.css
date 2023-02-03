@@ -19,7 +19,7 @@ nav {
   display: flex;
   align-items: center;
   height: 52px;
-  border-bottom: 5px solid #white;
+  border-bottom: 5px ;
 }
 
 nav > ul {
@@ -232,7 +232,7 @@ button[type="submit"] {
   #form-section {
     background-color: #1C2C5B;
     color: white;
-    padding: 10px;
+    padding: 5px;
     margin-top:16;
   }
   
@@ -241,3 +241,4 @@ button[type="submit"] {
     margin-left: auto;
     margin-right: auto;
   }
+}
