@@ -18,10 +18,18 @@ For Week-3 RevoU FSSE Madrid
 
 ## Screenshots
 
+### Desktop
+
 ![Desktop](assets/desktop.JPG)
+
+### Mobile
 
 ![Mobile](assets/mobile.JPG)
 
+### Symmetrical Grid
+
 ![Symmetrical Grid](assets/grid1.JPG)
+
+### Asymmetrical Grid
 
 ![Asymmetrical Grid](assets/grid2.JPG)
