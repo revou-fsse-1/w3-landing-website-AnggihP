@@ -42,17 +42,6 @@ nav > span {
   align-items: center;
 }
 
-header {
-  text-align: center;
-  color: #4850db;
-  background-color: #ffffff;
-  height: 400px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding-top: 48px;
-}
-
 nav .circle-red {
   font-size: 8px;
   background-color: red;
@@ -66,6 +55,16 @@ nav .circle-red {
   position: absolute;
   top: 8px;
   right: -8px;
+}
+header {
+  text-align: center;
+  color: #4850db;
+  background-color: #ffffff;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 48px;
 }
 
 .relative-container {
@@ -142,7 +141,7 @@ input[type="radio"]{
   background-color: #1C2C5B;
   color: white;
   padding: 10px;
-  margin-top:16;
+  margin-top:16px;
 }
 
 #form-section form {
@@ -232,13 +231,22 @@ button[type="submit"] {
   #form-section {
     background-color: #1C2C5B;
     color: white;
-    padding: 5px;
-    margin-top:16;
+    padding: 100px;
+    margin-top:px;
   }
   
   #form-section form {
-    /*max-width: 480px;*/
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
   }
+  nav > ul {
+    margin-left: auto;
+    margin-right: 16px;
+  }
+  
+  nav > ul > li > a {
+    display: inline-block;
+  color: #ffffff;}
+  
 }
