@@ -15,3 +15,13 @@ For Week-3 RevoU FSSE Madrid
 - Sky Blue: #6CABDD
 - Blue: #1C2C5B
 - White: #ffffff
+
+## Screenshots
+
+![Desktop](assets/desktop.JPG)
+
+![Mobile](assets/mobile.JPG)
+
+![Symmetrical Grid](assets/grid1.JPG)
+
+![Asymmetrical Grid](assets/grid2.JPG)
